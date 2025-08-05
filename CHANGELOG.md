@@ -6,3 +6,4 @@
 - 2025-07-22: Update dependencies
 - 2025-07-24: Setup CI
 - 2025-07-27: Code cleanup
+- 2025-08-05: Enhance logging
