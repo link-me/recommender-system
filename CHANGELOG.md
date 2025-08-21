@@ -9,3 +9,4 @@
 - 2025-08-05: Enhance logging
 - 2025-08-20: Enhance logging
 - 2025-08-20: Fix auth bug
+- 2025-08-21: Refactor module
