@@ -4,3 +4,4 @@
 # Enhance logging
 # Refactor module
 # Fix auth bug
+# Add tests
