@@ -5,3 +5,4 @@
 # Refactor module
 # Fix auth bug
 # Add tests
+# Code cleanup
