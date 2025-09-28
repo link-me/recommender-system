@@ -14,3 +14,4 @@
 - 2025-08-24: Fix auth bug
 - 2025-09-11: Add tests
 - 2025-09-13: Code cleanup
+- 2025-09-28: Add feature
